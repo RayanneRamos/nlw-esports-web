@@ -1,12 +1,14 @@
-<p align='center'>
-  <img src='https://img.shields.io/badge/license-MIT-%23835afd' alt='License' />
-  <img src='https://img.shields.io/badge/forks-MIT-%23835afd' alt='Forks' />
-  <img src='https://img.shields.io/badge/stars-MIT-%23835afd' alt='Stars' />
-</P>
+<h1 align='center'>NLW ESports</h1>
 
 <h1 align='center'>
   <img src='https://user-images.githubusercontent.com/43352880/191812229-52da561d-a6d5-4b6a-84e0-f76e0aa80a67.png' title='nlw-esports' alt='NLW-Esports'/>
 </h1>
+
+<p align='center'>
+  <img src='https://img.shields.io/badge/license-MIT-%23835afd' alt='License' />
+  <img src='https://img.shields.io/badge/forks-MIT-%23835afd' alt='Forks' />
+  <img src='https://img.shields.io/badge/stars-MIT-%23835afd' alt='Stars' />
+</p>
 
 <br>
 
@@ -52,6 +54,19 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ```
 
 Abra http://localhost:3000 no seu navegador para ver a aplicação rodando!
+
+## 🔖 Layout
+
+ - [Layout Web](https://www.figma.com/file/L84oeauf469R7TYHcDGQHw/NLW-eSports-(Community))
+
+## 🔥 Desafios
+
+ - [ ] Login com discord
+ - [ ] Responsividade
+ - [ ] Carrossel Games usando KeenSlides
+ - [ ] Criação de anúncio pela Web
+ - [ ] Validação Frontend e Backend
+ - [ ] Página 404
 
 ## 📝 License
 
